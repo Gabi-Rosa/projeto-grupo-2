@@ -5,7 +5,20 @@ body {
   background: #000000;
   color: #fff;
 }
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
 
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
 /*  ============= Menu superior =================== */
 #h5 {
   color: #1737c7;
